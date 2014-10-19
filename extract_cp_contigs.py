@@ -1,4 +1,9 @@
-"""This set of functions is for looking at a subset of contigs in an assembly.
+"""
+This is a custom script. The more general one is called
+extract_contigs.py
+
+
+This set of functions is for looking at a subset of contigs in an assembly.
 In this case, those contigs that are cp or mt. You can  report the 
 length of those contigs and also extract them to a separate multi fasta file
 
