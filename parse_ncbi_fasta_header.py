@@ -1,5 +1,5 @@
 """
-This script takes egnbank fasta files and does some renaming of the headers
+This script takes genbank fasta files and does some renaming of the headers
 so that the returned lines in blast output have the gene names more
 readable
 
