@@ -5,3 +5,20 @@ plans for auto script:
 
 once a month as soon as awake: If get error message (connection) wait 24 hours and do again
 
+Better to run with path in command but then edit program so the three files are specified with a path. Need to find out about this
+
+Also - work on email program that can be used as a module anywhere (set path?)
+
+Next steps:
+
+automate to do once per month (not critical): launchd or cron tabs
+Add a separate search that looks through ALL genbank accessions and finds ones that are:
+Match “moniliformopses”
+Not already in list
+Greater than 80,000 bp
+Has at least one one the following words: “chloroplast”, “plastid” ,“plastome”, "
+
+
+automatic email
+
+deals with connection error and tries again in 24 hours?
