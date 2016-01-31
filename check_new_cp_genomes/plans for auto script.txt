@@ -1,0 +1,7 @@
+plans for auto script:
+
+1. cd Documents/Python_files/research_scripts/GenBank_scripts/check_new_cp_genomes/
+2. python Plastid_Program.py
+
+once a month as soon as awake: If get error message (connection) wait 24 hours and do again
+

@@ -1,0 +1,44 @@
+python Documents/Python_files/research_scripts/GenBank_scripts/check_new_cp_genomes/Plastid_Program.py
+
+Traceback (most recent call last):
+  File "Documents/Python_files/research_scripts/GenBank_scripts/check_new_cp_genomes/Plastid_Program.py", line 49, in <module>
+    docContent = urllib2.urlopen(urllib2.Request(url=fetch_base)).read()
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 437, in open
+    response = meth(req, response)
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 550, in http_response
+    'http', request, response, code, msg, hdrs)
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 475, in error
+    return self._call_chain(*args)
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 558, in http_error_default
+    raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+urllib2.HTTPError: HTTP Error 502: Bad Gateway
+
+
+Traceback (most recent call last):
+  File "Documents/Python_files/research_scripts/GenBank_scripts/check_new_cp_genomes/Plastid_Program.py", line 49, in <module>
+    docContent = urllib2.urlopen(urllib2.Request(url=fetch_base)).read()
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 431, in open
+    response = self._open(req, data)
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 449, in _open
+    '_open', req)
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 409, in _call_chain
+    result = func(*args)
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 1227, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Users/Paul13/anaconda/lib/python2.7/urllib2.py", line 1200, in do_open
+    r = h.getresponse(buffering=True)
+  File "/Users/Paul13/anaconda/lib/python2.7/httplib.py", line 1132, in getresponse
+    response.begin()
+  File "/Users/Paul13/anaconda/lib/python2.7/httplib.py", line 453, in begin
+    version, status, reason = self._read_status()
+  File "/Users/Paul13/anaconda/lib/python2.7/httplib.py", line 409, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/Users/Paul13/anaconda/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+socket.error: [Errno 54] Connection reset by peer
