@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD esearch 20060628//EN" "http://eutils.ncbi.nlm.nih.gov/eutils/dtd/20060628/esearch.dtd">
+<eSearchResult><Count>9</Count><RetMax>9</RetMax><RetStart>0</RetStart><IdList>
+<Id>752789864</Id>
+<Id>748990836</Id>
+<Id>755161331</Id>
+<Id>359751518</Id>
+<Id>633674877</Id>
+<Id>633674828</Id>
+<Id>332015867</Id>
+<Id>332015866</Id>
+<Id>332015856</Id>
+</IdList><TranslationSet><Translation>     <From>Moniliformopses[orgn]</From>     <To>"Moniliformopses"[Organism]</To>    </Translation></TranslationSet><TranslationStack>   <TermSet>    <Term>"Moniliformopses"[Organism]</Term>    <Field>Organism</Field>    <Count>128896</Count>    <Explode>Y</Explode>   </TermSet>   <TermSet>    <Term>plastid[titl]</Term>    <Field>titl</Field>    <Count>85521</Count>    <Explode>N</Explode>   </TermSet>   <OP>AND</OP>   <TermSet>    <Term>00000010000[SLEN]</Term>    <Field>SLEN</Field>    <Count>0</Count>    <Explode>N</Explode>   </TermSet>   <TermSet>    <Term>00000999999[SLEN]</Term>    <Field>SLEN</Field>    <Count>0</Count>    <Explode>N</Explode>   </TermSet>   <OP>RANGE</OP>   <OP>AND</OP>  </TranslationStack><QueryTranslation>"Moniliformopses"[Organism] AND plastid[titl] AND 00000010000[SLEN] : 00000999999[SLEN]</QueryTranslation></eSearchResult>

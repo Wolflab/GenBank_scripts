@@ -1,0 +1,103 @@
+2016-03-20, The new search generated 56 hits
+
+2016-03-25, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-04-06, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-04-17, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-04-20, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-04-27, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-04-29, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-04-29, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-04-29, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-04-29, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-04-29, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-04-29, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-05-01, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-05-01, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-05-01, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-05-08, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-05-21, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-06-03, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-06-05, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-06-12, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-06-26, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-07-03, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-07-10, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-07-17, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-08-07, The new search generated 56 hits
+The master data has 56 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-08-21, Here is the list of new samples:
+[['743180135', 'chloroplast Botrychium ternatum'], ['743180031', 'chloroplast Helminthostachys zeylanica (kamraj)']]
+2016-08-28, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-09-04, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-09-11, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-09-18, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-09-25, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-09-30, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-10-02, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-10-09, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-10-16, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
