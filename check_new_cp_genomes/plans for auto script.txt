@@ -8,10 +8,22 @@ once a month as soon as awake: If get error message (connection) wait 24 hours a
 Better to run with path in command but then edit program so the three files are specified with a path. Need to find out about this
 
 Also - work on email program that can be used as a module anywhere (set path?)
+use either setup tools (http://click.pocoo.org/5/setuptools/) or look here:
+http://intermediate-and-advanced-software-carpentry.readthedocs.org/en/latest/structuring-python.html and try PYTHONPATH and easy_install
+
+setuptools working nicely (see /Users/Paul13/Documents/Python_files/research_scripts/GenBank_scripts/check_new_cp_genomes/example_email_scripts_setuptools) or example on old mac 11 inch.
+
+AGAIN - what happens when get new computer. How best to keep track of all setup files and rue them when get new laptop and python?
+
+
 
 Next steps:
 
 automate to do once per month (not critical): launchd or cron tabs
+see bookmarked pages under shell.
+
+IMPORTANT: What happens to these plists when update computer. Keep list of customs plists somewhere!
+
 Add a separate search that looks through ALL genbank accessions and finds ones that are:
 Match “moniliformopses”
 Not already in list
