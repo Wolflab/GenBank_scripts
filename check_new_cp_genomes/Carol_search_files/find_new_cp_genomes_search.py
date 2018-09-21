@@ -5,8 +5,8 @@ import sys
 #print sys.path
 
 import pandas as pd
-from email_from_gmail import send_email
-from email_from_gmail import date_today
+from email_from_yahoo import send_email
+from email_from_yahoo import date_today
 from Bio import Entrez
 
 '''This if for searching the NCBI database for new fern chloroplast/plastid genomes of >10,000bp

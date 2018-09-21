@@ -1,9 +1,15 @@
 Friends: I have updated the list of complete plastid genomes of ferns that I have detected in GenBank. Updated csv file attached.
+Web page: https://sites.google.com/site/paulwolfresearch/data-protocols/fern_plastome_list
+
+Here is the list of new samples:
+['1078191322', 'chloroplast Actinostachys pennula’]
+https://www.ncbi.nlm.nih.gov/nuccore/1078191322
  
+New total is 91 fern plastomes in GenBank
+
 Also included are fragments over 10 kb.
 
 Please contact me if you wish:
-
 to be removed from this list
 your email address changed
 you know of other GenBank entires that I should add
@@ -13,10 +19,13 @@ you know of colleagues who might want to be added to this update list
 Thanks
 
 Paul
+— 
+Paul G. Wolf
+Director, Intermountain Herbarium
+Professor and Associate Head
+Department of Biology
+Utah State University
+5305 Old Main Hill
+Logan, UT 84322, USA
 
-link: 
-https://sites.google.com/site/paulwolfresearch/data-protocols/fern_plastome_list
 
-Here is the list of new samples:
-
-[['743180135', 'chloroplast Botrychium ternatum'], ['743180031', 'chloroplast Helminthostachys zeylanica (kamraj)']]

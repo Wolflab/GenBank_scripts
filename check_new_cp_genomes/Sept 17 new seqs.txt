@@ -1,0 +1,111 @@
+[['1241928872', 'chloroplast Schizaea pectinata'],
+ ['1241931102', 'chloroplast Matteuccia struthiopteris (ostrich fern)'],
+ ['1241922603', 'chloroplast Diplaziopsis cavaleriana'],
+ ['1241922336', 'chloroplast Austroblechnum melanocaulon'],
+ ['1241922691', 'chloroplast Diplazium dushanense'],
+ ['1241930396', 'chloroplast Diplaziopsis javanica'],
+ ['1241930663', 'chloroplast Diplazium unilobum'],
+ ['1241931369', 'chloroplast Rhachidosorus consimilis'],
+ ['1241931635', 'chloroplast Woodsia polystichoides'],
+ ['1241929863', 'chloroplast Asplenium pekinense'],
+ ['1241922780', 'chloroplast Diplazium striatum'],
+ ['1241930485', 'chloroplast Diplazium bellum'],
+ ['1241930307', 'chloroplast Deparia lancea'],
+ ['1241929952', 'chloroplast Asplenium prolongatum'],
+ ['1241931013', 'chloroplast Macrothelypteris torresiana'],
+ ['1241929774', 'chloroplast Athyrium sheareri'],
+ ['1241922514', 'chloroplast Deparia viridifrons'],
+ ['1241931191', 'chloroplast Onoclea sensibilis'],
+ ['1241930574', 'chloroplast Diplazium dilatatum'],
+ ['1241930747', 'chloroplast Dryopteris decipiens'],
+ ['1241922247', 'chloroplast Athyrium sinense'],
+ ['1241922425', 'chloroplast Deparia pycnosora'],
+ ['1241930925', 'chloroplast Hymenasplenium unilaterale'],
+ ['1241930040', 'chloroplast Athyrium opacum'],
+ ['1241929685', 'chloroplast Ampelopteris elegans'],
+ ['1241930129', 'chloroplast Cyclosorus procerus'],
+ ['1241931458', 'chloroplast Stegnogramma sagittifolia'],
+ ['1241930836', 'chloroplast Homalosorus pycnocarpos'],
+ ['1241931546', 'chloroplast Woodsia macrochlaena'],
+ ['1241928788', 'chloroplast Schizaea elegans'],
+ ['Taxon,Accession
+Actinostachys pennula,KU764518
+Adiantum capillus-veneris, NC_004766
+Alsophila spinulosa ,NC_012818
+Ampelopteris elegans,1236178171
+Angiopteris angustifolia, NC_026300
+Angiopteris evecta, NC_008829
+Asplenium pekinense,1236178349
+Asplenium prolongatum,1236178438
+Athyrium anisopterum, KY419703
+Athyrium anisopterum,1238821723
+Athyrium opacum,1236178704
+Athyrium sheareri,1236178260
+Athyrium sinense,1236178526
+Austroblechnum melanocaulon,1236178615
+Azolla caroliniana, KC626076
+Botrychium ternatum, KM817789.2
+Ceratopteris richardii, KM052729
+Cheilanthes lindheimeri, NC_014592
+Cyclosorus procerus,1236178793
+Cyrtomium devexiscapulae, NC_028542
+Cyrtomium falcatum, NC_028705
+Cystopteris chinensis,1236178882
+Cystopteris protrusa, KP136830
+Deparia lancea,1236178971
+Deparia pycnosora,1236179060
+Deparia viridifrons,1236179149
+Dicksonia antarctica (fragment), HM021802
+Dicksonia squarrosa, KJ569698
+Diplaziopsis cavaleriana,1236179238
+Diplaziopsis javanica,1236179326
+Diplazium bellum,1236179415
+Diplazium dilatatum,1236179504
+Diplazium dushanense,1236179593
+Diplazium striatum,1236179682
+Diplazium unilobum,1236179771
+Diplopterygium glaucum, NC_024158
+Dipteris conjugata, KP136829
+Drynaria roosii, KY075853
+Dryopteris decipiens,1236179855
+Dryopteris fragrans, KX418656
+Equisetum arvense (fragment), HQ658110
+Equisetum arvense (Korea), JN968380
+Equisetum arvense (USA), NC_014699
+Equisetum hyemale, NC_020146
+Equisetum hyemale (fragment), KC610090
+Equisetum ramosissimum (fragment), HQ658109
+Gleichenia japonica (fragment), HM021798
+Helminthostachys zeylanica,KM817788.2
+Homalosorus pycnocarpos,1236179944
+Hymenasplenium unilaterale,1236180033
+Hypodematium crenatum,1236180121
+Lepisorus clathratus, KY419704
+Lepisorus clathratus,1238821811
+Lygodium japonicum, NC_022136
+Macrothelypteris torresiana,1236180210
+Mankyua chejuensis, NC_017006
+Marsilea crenata, NC_022137
+Marsilea mutica (fragment), HM021801
+Matteuccia struthiopteris,1236180299
+Onoclea sensibilis,1236180388
+Ophioglossum californicum, NC_020147
+Osmundastrum cinnamomeum, NC_024157
+Osmundastrum cinnamomeum (fragment), HM021799
+Plagiogyria formosana, KP136831
+Plagiogyria japonica (fragment), HQ658099
+Polypodium glycyrrhiza, KP136832
+Psilotum nudum, NC_003386
+Pteridium aquilinum subsp. aquilinum, NC_014348
+Rhachidosorus consimilis,1236180566
+Schizaea elegans,1129604556
+Schizaea pectinata,1129604640
+Stegnogramma sagittifolia,1236180655
+Thelypteris aurita,1236180477
+Tmesipteris elongata, KJ569699
+Vandenboschia radicans (fragment), HM021800
+Woodsia macrochlaena,1236180743
+Woodsia polystichoides,1236180832
+Woodwardia unigemmata, NC_028543 ', 'chloroplast Cystopteris chinensis'],
+ ['1241931280', 'chloroplast Thelypteris aurita'],
+ ['1241922869', 'chloroplast Hypodematium crenatum']]

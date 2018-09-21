@@ -101,3 +101,511 @@ Nothing new. Lists are the same length and all items match. Maybe you should get
 2016-10-16, The new search generated 58 hits
 The master data has 58 hits
 Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-10-23, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-10-30, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-11-06, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-11-13, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-11-27, The new search generated 58 hits
+The master data has 58 hits
+The new search has the following, which is not in the master list.
+['1104323252', '1104323250']
+The master list has the following, which is not in the new list.
+['743180135', '743180031']
+2016-12-04, The new search generated 58 hits
+The master data has 58 hits
+The new search has the following, which is not in the master list.
+['1104323252', '1104323250']
+The master list has the following, which is not in the new list.
+['743180135', '743180031']
+2016-12-11, The new search generated 58 hits
+The master data has 58 hits
+The new search has the following, which is not in the master list.
+['1104323252', '1104323250']
+The master list has the following, which is not in the new list.
+['743180135', '743180031']
+2016-12-11, Here is the list of new samples:
+[['1104323252', 'chloroplast Helminthostachys zeylanica (kamraj)'], ['1104323250', 'chloroplast Botrychium ternatum']]
+2016-12-11, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2016-12-18, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-01-01, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-01-15, The new search generated 58 hits
+The master data has 58 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-01-22, Here is the list of new samples:
+[['1131389821', 'chloroplast Dryopteris fragrans']]
+2017-01-29, The new search generated 59 hits
+The master data has 59 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-02-05, The new search generated 59 hits
+The master data has 59 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-02-12, The new search generated 59 hits
+The master data has 59 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-02-19, The new search generated 59 hits
+The master data has 59 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-02-26, The new search generated 59 hits
+The master data has 59 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-03-05, Here is the list of new samples:
+[['1078191322', 'chloroplast Actinostachys pennula']]
+2017-03-12, The new search generated 60 hits
+The master data has 60 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-03-19, The new search generated 60 hits
+The master data has 60 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-03-26, The new search generated 60 hits
+The master data has 60 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-04-02, The new search generated 60 hits
+The master data has 60 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-04-09, The new search generated 60 hits
+The master data has 60 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-04-16, The new search generated 60 hits
+The master data has 60 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-04-23, Here is the list of new samples:
+[['1177818041', 'chloroplast Drynaria roosii']]
+2017-04-30, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-05-07, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-05-14, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-05-21, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-05-28, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-06-04, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-06-11, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-06-18, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-06-25, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-07-02, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-07-09, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-07-16, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-07-23, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-08-06, The new search generated 61 hits
+The master data has 61 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-08-13, Here is the list of new samples:
+[['1227542356', 'chloroplast Athyrium anisopterum'], ['1227542444', 'chloroplast Lepisorus clathratus']]
+2017-08-27, The new search generated 63 hits
+The master data has 63 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-09-04, Here is the list of new samples:
+[['1236180299', 'chloroplast Matteuccia struthiopteris (ostrich fern)'], ['1236178971', 'chloroplast Deparia lancea'], ['1129604556', 'chloroplast Schizaea elegans'], ['1236178171', 'chloroplast Ampelopteris elegans'], ['1236179504', 'chloroplast Diplazium dilatatum'], ['1236179682', 'chloroplast Diplazium striatum'], ['1238821811', 'chloroplast Lepisorus clathratus'], ['1238821723', 'chloroplast Athyrium anisopterum'], ['1236180655', 'chloroplast Stegnogramma sagittifolia'], ['1236179149', 'chloroplast Deparia viridifrons'], ['1236180388', 'chloroplast Onoclea sensibilis'], ['1236179944', 'chloroplast Homalosorus pycnocarpos'], ['1236180121', 'chloroplast Hypodematium crenatum'], ['1236180210', 'chloroplast Macrothelypteris torresiana'], ['1236178615', 'chloroplast Austroblechnum melanocaulon'], ['1236180477', 'chloroplast Thelypteris aurita'], ['1236179593', 'chloroplast Diplazium dushanense'], ['1129604640', 'chloroplast Schizaea pectinata'], ['1236179326', 'chloroplast Diplaziopsis javanica'], ['1236179415', 'chloroplast Diplazium bellum'], ['1236179060', 'chloroplast Deparia pycnosora'], ['1236178349', 'chloroplast Asplenium pekinense'], ['1236180743', 'chloroplast Woodsia macrochlaena'], ['1236179238', 'chloroplast Diplaziopsis cavaleriana'], ['1236180832', 'chloroplast Woodsia polystichoides'], ['1236178526', 'chloroplast Athyrium sinense'], ['1236178882', 'chloroplast Cystopteris chinensis'], ['1236178260', 'chloroplast Athyrium sheareri'], ['1236179771', 'chloroplast Diplazium unilobum'], ['1236178793', 'chloroplast Cyclosorus procerus'], ['1236179855', 'chloroplast Dryopteris decipiens'], ['1236178438', 'chloroplast Asplenium prolongatum'], ['1236180033', 'chloroplast Hymenasplenium unilaterale'], ['1236178704', 'chloroplast Athyrium opacum'], ['1236180566', 'chloroplast Rhachidosorus consimilis']]
+2017-09-10, The new search generated 98 hits
+The master data has 98 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-09-17, Here is the list of new samples:
+[['1241928872', 'chloroplast Schizaea pectinata'], ['1241931102', 'chloroplast Matteuccia struthiopteris (ostrich fern)'], ['1241922603', 'chloroplast Diplaziopsis cavaleriana'], ['1241922336', 'chloroplast Austroblechnum melanocaulon'], ['1241922691', 'chloroplast Diplazium dushanense'], ['1241930396', 'chloroplast Diplaziopsis javanica'], ['1241930663', 'chloroplast Diplazium unilobum'], ['1241931369', 'chloroplast Rhachidosorus consimilis'], ['1241931635', 'chloroplast Woodsia polystichoides'], ['1241929863', 'chloroplast Asplenium pekinense'], ['1241922780', 'chloroplast Diplazium striatum'], ['1241930485', 'chloroplast Diplazium bellum'], ['1241930307', 'chloroplast Deparia lancea'], ['1241929952', 'chloroplast Asplenium prolongatum'], ['1241931013', 'chloroplast Macrothelypteris torresiana'], ['1241929774', 'chloroplast Athyrium sheareri'], ['1241922514', 'chloroplast Deparia viridifrons'], ['1241931191', 'chloroplast Onoclea sensibilis'], ['1241930574', 'chloroplast Diplazium dilatatum'], ['1241930747', 'chloroplast Dryopteris decipiens'], ['1241922247', 'chloroplast Athyrium sinense'], ['1241922425', 'chloroplast Deparia pycnosora'], ['1241930925', 'chloroplast Hymenasplenium unilaterale'], ['1241930040', 'chloroplast Athyrium opacum'], ['1241929685', 'chloroplast Ampelopteris elegans'], ['1241930129', 'chloroplast Cyclosorus procerus'], ['1241931458', 'chloroplast Stegnogramma sagittifolia'], ['1241930836', 'chloroplast Homalosorus pycnocarpos'], ['1241931546', 'chloroplast Woodsia macrochlaena'], ['1241928788', 'chloroplast Schizaea elegans'], ['1241930218', 'chloroplast Cystopteris chinensis'], ['1241931280', 'chloroplast Thelypteris aurita'], ['1241922869', 'chloroplast Hypodematium crenatum']]
+2017-09-24, 
+2017-10-01, 
+2017-10-01, The new search generated 131 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-10-08, The new search generated 131 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-10-15, The new search generated 131 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-10-22, The new search generated 131 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-10-29, The new search generated 139 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1261343266', '1261343357', '1261343084', '1261343175', '1261342993', '1261343448', '1261343539', '1261342902']
+The master list has the following, which is not in the new list.
+['952009479', '952009389', '752789864', '817161807', '748763025', '748763110', '748763192', '748990836']
+2017-11-05, The new search generated 139 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1261343266', '1261343357', '1261343084', '1261343175', '1261342993', '1261343448', '1261343539', '1261342902']
+The master list has the following, which is not in the new list.
+['952009479', '952009389', '752789864', '817161807', '748763025', '748763110', '748763192', '748990836']
+2017-11-05, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-11-12, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-11-19, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-11-26, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-12-03, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-12-10, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-12-17, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-12-24, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2017-12-31, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-01-07, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-01-14, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-01-21, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-01-28, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-02-04, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-02-11, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-02-18, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-02-25, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-03-04, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-03-11, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-03-18, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-03-25, The new search generated 139 hits
+The master data has 100 hits
+Nothing new. Lists are the same length and all items match. Maybe you should get into the lab and generate some data.
+2018-04-01, The new search generated 140 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1367974901']
+The master list has the following, which is not in the new list.
+['959123260']
+2018-04-08, The new search generated 140 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1367974901']
+The master list has the following, which is not in the new list.
+['959123260']
+2018-04-15, The new search generated 140 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1367974901']
+The master list has the following, which is not in the new list.
+['959123260']
+2018-04-29, The new search generated 143 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1381391452', '1375964283', '1381394118']
+The master list has the following, which is not in the new list.
+['110628278', '959123350', '966201822']
+2018-05-06, The new search generated 143 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1381391452', '1375964283', '1381394118']
+The master list has the following, which is not in the new list.
+['110628278', '959123350', '966201822']
+2018-05-13, The new search generated 145 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1381391452', '1375964283', '1384011149', '1381394118', '1386810703']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '633674828', '959123350', '966201822']
+2018-05-20, The new search generated 145 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1381391452', '1375964283', '1384011149', '1381394118', '1386810703']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '633674828', '959123350', '966201822']
+2018-05-20, The new search generated 145 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1381391452', '1375964283', '1384011149', '1381394118', '1386810703']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '633674828', '959123350', '966201822']
+2018-05-27, The new search generated 145 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1389618144', '1381391452', '1375964283']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '959123350', '1131389821', '633674828', '966201822']
+2018-05-27, The new search generated 145 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1389618144', '1381391452', '1375964283']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '959123350', '1131389821', '633674828', '966201822']
+2018-05-27, The new search generated 145 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1389618144', '1381391452', '1375964283']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '959123350', '1131389821', '633674828', '966201822']
+2018-06-03, The new search generated 146 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '959123350', '1131389821', '633674828', '966201822']
+2018-06-03, The new search generated 146 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '959123350', '1131389821', '633674828', '966201822']
+2018-06-24, The new search generated 146 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '959123350', '1131389821', '633674828', '966201822']
+2018-06-24, The new search generated 146 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '959123350', '1131389821', '633674828', '966201822']
+2018-06-24, The new search generated 146 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '959123350', '1131389821', '633674828', '966201822']
+2018-07-01, The new search generated 147 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1405681236']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '959123350', '1131389821', '633674828', '966201822']
+2018-07-01, The new search generated 147 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1405681236']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '959123350', '1131389821', '633674828', '966201822']
+2018-07-08, The new search generated 148 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-07-08, The new search generated 148 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-07-15, The new search generated 148 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-07-15, The new search generated 148 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-07-22, The new search generated 148 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-07-22, The new search generated 148 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-07-29, The new search generated 148 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-07-29, The new search generated 148 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-08-05, The new search generated 149 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-08-12, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-08-12, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-08-19, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-08-19, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-08-26, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-08-26, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-08-26, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-09, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-09, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
+2018-09-10, The new search generated 150 hits
+The master data has 100 hits
+The new search has the following, which is not in the master list.
+['1386810703', '1384011149', '1381394118', '1390379551', '1435280168', '1389618144', '1381391452', '1375964283', '1418581563', '1405681236', '1436053678']
+The master list has the following, which is not in the new list.
+['110628278', '218454801', '295791992', '295791949', '295791960', '295791981', '295791971', '959123350', '1131389821', '633674828', '966201822']
